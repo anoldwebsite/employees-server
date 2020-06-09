@@ -1,0 +1,34 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "firstName": "Rana",
+      "lastName": "Dilshad",
+      "email": "rana.dilshad@gmail.com"
+    },
+    {
+      "firstName": "Khan",
+      "lastName": "Aman",
+      "email": "aman.khan@gmail.com",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "firstName": "Afzal",
+      "lastName": "Khan",
+      "email": "afzal.khan@gmail.com"
+    },
+    {
+      "firstName": "Some",
+      "lastName": "Body",
+      "email": "some.body@gmail.com",
+      "id": 5
+    },
+    {
+      "firstName": "Russell",
+      "lastName": "Junaid",
+      "email": "russell.junaid@gmail.com",
+      "id": 6
+    }
+  ]
+}

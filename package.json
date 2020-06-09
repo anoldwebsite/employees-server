@@ -1,0 +1,11 @@
+{
+  "name": "employees-server",
+  "version": "1.0.0",
+  "description": "A json server that can be used for CRUD operation on employees to test front-end code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ajmal Khan",
+  "license": "ISC"
+}
